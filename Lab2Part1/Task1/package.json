@@ -1,0 +1,39 @@
+{
+  "Event": {
+    "Course Python": {
+      "Price": 50,
+      "Place": "Internet",
+      "Date": "15.08.2024",
+      "Time": "14:30",
+      "Tickets": 48
+    },
+    "Course C++": {
+      "Price": 200,
+      "Place": "Internet",
+      "Date": "15.10.2024",
+      "Time": "14:10",
+      "Tickets": 58
+    },
+    "Course PHP": {
+      "Price": 100,
+      "Place": "Internet",
+      "Date": "15.08.2023",
+      "Time": "14:20",
+      "Tickets": 39
+    },
+    "Corse Java": {
+      "Price": 200,
+      "Place": "Internet",
+      "Date": "14.03.2023",
+      "Time": "12:00",
+      "Tickets": 300
+    },
+    "Corse Linux": {
+      "Price": 150,
+      "Place": "Internet",
+      "Date": "14.03.2023",
+      "Time": "12:00",
+      "Tickets": 300
+    }
+  }
+}

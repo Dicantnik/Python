@@ -1,0 +1,61 @@
+{
+  "Ingridients":
+
+  {
+    "dough" :
+    {
+      "name": "dough",
+      "Price": 21
+    },
+    "cheese" :
+    {
+      "name": "cheese",
+      "Price": 12
+    },
+    "pineapple":
+    {
+      "name": "pineapple",
+      "Price": 11
+    },
+    "sauce" :
+    {
+      "name": "sauce",
+      "Price": 8
+    },
+    "sausage":
+    {
+      "name": "sausage",
+      "Price": 9
+    },
+    "onion" :
+    {
+      "name": "onion",
+      "Price": 4
+    },
+    "bellpepper":
+    {
+      "name": "bellpepper",
+      "Price": 9
+    },
+    "cucumber":
+    {
+      "name": "cucumber",
+      "Price": 13
+    },
+    "corn":
+    {
+      "name": "corn",
+      "Price": 3
+    },
+    "meat":
+    {
+      "name": "meat",
+      "Price": 30
+    },
+    "rusnia":
+    {
+      "name": "rusnia",
+      "Price": 0
+    }
+  }
+}
